@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[tdythunderbolt]]></title>
         <description><![CDATA[tdythunderbolt]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tdythunderbolt/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 24 May 2016 17:28:42 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 09 Aug 2016 16:41:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tdythunderbolt/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/161eb251-2de6-4c7c-a2ad-5b0711114be9.png">]]></description>
+            <link>https://thegrid.ai/tdythunderbolt/this-is-the-grid-might-not-be-that-hot-at-all/index.html</link>
+            <guid isPermaLink="false">6f40fe12-d54b-4798-833f-df973a41c390</guid>
+            <pubDate>Tue, 09 Aug 2016 16:41:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bcad1ca1-63cc-452c-9ba1-2b4bc3a2fc58.jpg">]]></description>
-            <link>undefinedhey-what-does-this-look-like/index.html</link>
+            <link>https://thegrid.ai/tdythunderbolt/hey-what-does-this-look-like/index.html</link>
             <guid isPermaLink="false">6c8bf9e0-d185-4d1c-99a1-d8cf786ad60f</guid>
             <pubDate>Tue, 24 May 2016 17:27:58 GMT</pubDate>
         </item>
